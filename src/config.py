@@ -24,7 +24,7 @@ TOP_K = int(os.getenv("TOP_K", 4))
 
 # Generation
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
+GEMINI_MODEL = "gemini-3.6-flash"
 TEMPERATURE = float(os.getenv("TEMPERATURE", 0.0))
 
 # The exact sentence the model must use when the answer is not in the document.
