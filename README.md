@@ -101,7 +101,7 @@ Fill this in from your own run (`eval/results/`):
 
 | Chunk size | Chunks | Hit@4 | MRR |
 |-----------:|-------:|------:|----:|
-| 300  | | | |
+| 300        | | | |
 | 500  | | | |
 | 800  | | | |
 | 1200 | | | |
